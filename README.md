@@ -54,7 +54,7 @@ This project showcases an interactive dashboard built using weather data. It inc
 
 An **interactive dashboard** integrates all six sheets to provide a consolidated view. Users can explore trends through filters, tooltips, and interactive elements.
 
-![Dashboard Preview]([dashboard.png](https://github.com/sonaliverma01/tableau/issues/1#issue-3002378759))
+![Dashboard Preview](https://private-user-images.githubusercontent.com/82700716/434799016-7186361b-43e2-4c34-b812-48c708b97a3b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ4OTQxNzksIm5iZiI6MTc0NDg5Mzg3OSwicGF0aCI6Ii84MjcwMDcxNi80MzQ3OTkwMTYtNzE4NjM2MWItNDNlMi00YzM0LWI4MTItNDhjNzA4Yjk3YTNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE3VDEyNDQzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhYjlkZDQ5NzU0YWFhNmNjZjk0YWVmYjY2NWFhNTU5NWIzYTJjOTQ3MjRkNWY0OGU5NDllNzdkMGNmYTRkMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n2u3qZWEvZCF03LyaHddMjxwf5KJqmLRLbMPxm0jWDo)
 
 ---
 
